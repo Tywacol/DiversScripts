@@ -1,0 +1,10 @@
+Original :
+#lockDialogGroup {
+  background: #2c001e url(resource:///org/gnome/shell/theme/noise-texture.png);
+  background-repeat: repeat; }
+
+#lockDialogGroup {
+  background: #2c001e url(file:///usr/share/backgrounds/nameOfTheWind.jpg);
+  background-repeat: repeat;
+  background-position: left; 
+  background-size: contain; }

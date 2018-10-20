@@ -1,0 +1,5 @@
+cd /home/corto/Downloads/ProtonVPN;sudo openvpn nl-free-01.protonvpn.com.udp1194.ovpn
+
+
+iBaYNHFb3X3QqFxAc2owF1Rg
+G0JMLgrmYs8NtwB90aTBtKKI

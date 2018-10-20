@@ -1,0 +1,1 @@
+echo "alias cls='clear'" >> ~/.bash_aliases && source ~/.bash_aliases

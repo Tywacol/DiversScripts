@@ -1,0 +1,10 @@
+#Connect to Cabinet
+//cabinet.usask.ca/work$ /mnt/cabinet cifs username=nsid,noauto,user 0 0
+Save it: Press (^x) and Y, followed by enter
+And now you can access cabinet…
+
+Open a Terminal window and type/paste:mount /mnt/cabinet
+(enter your nsid password when requested)
+To View cabinet in Xwindows, open the “Files” file manager (or any file manager)
+Click on Go>Enter Location
+In the path, type /mnt/cabinet <enter>
